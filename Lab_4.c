@@ -1,4 +1,6 @@
 /*
+Input:SHAKIB&sha#kib@
+Output:
 Enter a string: SHAKIB&sha#kib@
 Uppercase character count: 6
 Lowercase character count: 6
