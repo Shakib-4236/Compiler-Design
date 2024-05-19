@@ -1,4 +1,7 @@
-/*Programming Logic:
+//C program designed to detect the presence of comments within a source code input by the user.
+
+/*
+Programming Logic:
 The program utilises a simple logic to detect comments within a C source code. It
 iterates through each character of the input string and checks for specific patterns
 that indicate the presence of comments:
@@ -7,7 +10,8 @@ string.
 ● For multi-line comments: It checks for the occurrence of "/" at the beginning
 and "/" at the end of the input string.
 Upon detecting these patterns, appropriate flags are set to indicate the presence of
-comments.*/
+comments.
+*/
 
 
 #include <stdio.h>
